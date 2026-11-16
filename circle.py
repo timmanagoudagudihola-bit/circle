@@ -7,3 +7,4 @@ circumference = 2 * math.pi * r
 
 print("Area:", round(area, 2))
 print("Circumference:", round(circumference, 2))
+print("Radius:", round(r, 2))
